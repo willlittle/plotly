@@ -1,9 +1,9 @@
 index,country,year,recordedRate,projectedFromRecord,projectedWithoutWar
-0,Iraq,1950,244.01,0,0
-0,Iraq,1955,210.54,0,0
-0,Iraq,1960,185.96,0,0
-0,Iraq,1965,159.75,0,0
-0,Iraq,1970,135.42,0,0
+0,Iraq,1950,24.01,0,0
+0,Iraq,1955,20.54,0,0
+0,Iraq,1960,15.96,0,0
+0,Iraq,1965,19.75,0,0
+0,Iraq,1970,15.42,0,0
 0,Iraq,1975,108.23,0,0
 0,Iraq,1980,83.66,0,88.20033929
 0,Iraq,1985,71.89,0,68.90630357
